@@ -1,0 +1,2 @@
+git staging area is useful before finalize any task we can make any changes.
+ 
